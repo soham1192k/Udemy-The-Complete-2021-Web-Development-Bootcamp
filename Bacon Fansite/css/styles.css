@@ -1,0 +1,16 @@
+/***************Tag selector***************/
+h1 {
+    color: red;
+    font-size: 200px;
+}
+/***********Class Selector****************/
+.bacon {
+    background-color: green;
+}
+.broccoli {
+    background-color: red;
+}
+/***********ID Selector****************/
+#heading {
+    color: blue;
+}
