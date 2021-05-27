@@ -1,0 +1,21 @@
+.a {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.b {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+}
+.c {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+}
